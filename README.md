@@ -2,7 +2,7 @@
 
 A sample Data Visualization project.
 
-## view:
+## view: https://jephthah-orobia.github.io/treemap-diagram/
 
 ---
 
